@@ -8,6 +8,8 @@ The output of the experiment will be a data file found in ./data/ which you can 
 
 # Python code
 
-To run the Python experiment, download the "Dynamic Cat" folder and within the input/Stims directory unzip Stims.zip. This code was written for PsychoPy version 1.85.6 which can be downloaded and installed from here: https://github.com/psychopy/psychopy/releases/tag/1.85.6 (other versions might work, but to ensure full compatability, please use that.)
-
-When you launch PsychoPy it will likely open into "Builder View". Click "View: Open Coder View". Open Dynamic_Cat.py and run the file.
+To run the Python experiment:
+1) Download the "Dynamic Cat" folder and within the input/Stims directory unzip Stims.zip. 
+2) This code was written for PsychoPy version 1.85.6 which can be downloaded and installed from here: https://github.com/psychopy/psychopy/releases/tag/1.85.6 (other versions might work, but to ensure full compatability, please use that.)
+3) When you launch PsychoPy it will likely open into "Builder View". Click "View: Open Coder View". 
+4) Open Dynamic_Cat.py and run the file.
